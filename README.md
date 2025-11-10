@@ -1,2 +1,2 @@
-# organic poultry html template
+# organic poultry
 organic poultry html template
